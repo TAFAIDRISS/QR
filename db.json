@@ -195,24 +195,52 @@
       
       "logo": "https://l.top4top.io/p_2235xa1uv1.png",
        "logoo": "https://l.top4top.io/p_2235xa1uv1.png",
-       "name": "سورة ـــ",
+       "name": "سورة النساء",
        "number": "عدداياتها 200",
       "type": " مدنية",
-      "hizb":"الحزب السابع",
+      "hizb":"الحزب السادس",
       
-      "images": ["https://i.ibb.co/fQDj8fb/brnav.jpg","https://i.ibb.co/fQDj8fb/brnav.jpg"]
+      "images": ["https://i.ibb.co/0tfr1cf/a1.jpg",
+                 "https://i.ibb.co/8bz9rjd/a2.jpg",
+                 "https://i.ibb.co/VV5qxBW/a3.jpg",
+                 "https://i.ibb.co/gR6h01s/a4.jpg"]
      
        },
     {
       
       "logo": "https://l.top4top.io/p_2235xa1uv1.png",
        "logoo": "https://l.top4top.io/p_2235xa1uv1.png",
-       "name": "سورة ـــ",
+       "name": "سورة المائدة",
        "number": "عدداياتها 200",
       "type": " مدنية",
-      "hizb":"الحزب الثامن",
+      "hizb":"الحزب السادس",
       
-      "images": [ "https://i.ibb.co/fQDj8fb/brnav.jpg","https://i.ibb.co/fQDj8fb/brnav.jpg"]
+      "images": [ "https://i.ibb.co/1GMZd0y/z1.jpg",
+                 "https://i.ibb.co/LQ9Q4V1/z2.jpg",
+                 "https://i.ibb.co/bbwQgHr/z3.jpg",
+                 "https://i.ibb.co/qBn3VP0/z4.jpg",
+                 "https://i.ibb.co/Fn21YSp/z5.jpg",
+                 "https://i.ibb.co/qMbV9rd/z6.jpg",
+                 "https://i.ibb.co/VDdsq1M/z7.jpg",
+                 "https://i.ibb.co/HCNg06z/z8.jpg",
+                 "https://i.ibb.co/jZZggw9/z9.jpg",
+                 "https://i.ibb.co/Js5sng7/z10.jpg",
+                 "https://i.ibb.co/FnjvRkx/z11.jpg",
+                 "https://i.ibb.co/4gJRLvL/z12.jpg",
+                 "https://i.ibb.co/8zF2dDH/z13.jpg",
+                 "https://i.ibb.co/WfpvSSR/z14.jpg",
+                 "https://i.ibb.co/02V5qgF/z15.jpg",
+                 "https://i.ibb.co/JcVcSp2/z16.jpg"]
+    },
+    {
+       "logo": "https://l.top4top.io/p_2235xa1uv1.png",
+       "logoo": "https://l.top4top.io/p_2235xa1uv1.png",
+       "name": "سورة ــ",
+       "number": "عدداياتها ــ",
+      "type": " ــ",
+      "hizb":"الحزب ــ",
+      
+      "images": []
     
     }
     ]
